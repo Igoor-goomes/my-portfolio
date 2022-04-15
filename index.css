@@ -4,7 +4,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-ul {
+ul{
     display: flex;
     justify-content: space-between;
     list-style-type: none;
@@ -58,4 +58,8 @@ footer p {
 
 nav a:hover {
     color:green;
+}
+
+#ul-certifica {
+    list-style-type: none;
 }
